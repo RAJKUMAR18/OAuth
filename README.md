@@ -72,9 +72,10 @@
  ```
  
  ## Most important is the callback URL this causes a lot of trouble 
+ [Github developer Area](https://github.com/settings/developers)
  ![Github Oauth app image](https://github.com/RAJKUMAR18/OAuth/blob/master/sample_images/social_auth_github.png)
  
- 
+ [Twitter Developers Area](https://apps.twitter.com/)
  ![Twitter Oauth app image](https://github.com/RAJKUMAR18/OAuth/blob/master/sample_images/social_auth_twitter.png)
  
  
